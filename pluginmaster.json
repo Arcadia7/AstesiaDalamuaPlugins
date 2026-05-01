@@ -21,7 +21,6 @@
         "AssemblyVersion":  "1.0.9.0",
         "Description":  "自动G18挖宝插件",
         "Punchline":  "羊来",
-        "_PunchlineNote":  "可选：Dalamud 插件列表中的短描述。",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  14,
         "RepoUrl":  "https://github.com/Arcadia7/AstesiaDalamuaPlugins",
