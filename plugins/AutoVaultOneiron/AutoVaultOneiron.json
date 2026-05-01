@@ -6,7 +6,7 @@
     "Description":  "自动G18挖宝插件",
     "Punchline":  "羊来",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  14,
+    "DalamudApiLevel":  15,
     "RepoUrl":  "https://github.com/Arcadia7/AstesiaDalamuaPlugins",
     "IconUrl":  "https://raw.githubusercontent.com/Arcadia7/AstesiaDalamuaPlugins/main/plugins/AutoVaultOneiron/icon.png",
     "Changelog":  "前端重构版本，洞内修改为发包宝箱，暂未测试",
